@@ -1,5 +1,5 @@
-<h1 align="left">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">GoatScripts</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="left">Hi there, I'm GoatScripts <img
+src="https://raw.githubusercontent.com/RafaelPil/RafaelPil/refs/heads/main/Hi.gif" height="32" /></h1>
 
 <br />
 
